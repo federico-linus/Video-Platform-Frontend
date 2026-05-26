@@ -2,7 +2,7 @@
 
 A responsive video platform homepage built with HTML and CSS. This project replicates a typical video browsing layout, including a header, sidebar navigation, and a grid of video previews with thumbnails, titles, authors, and view counts.
 
-You can visit the page live at [Video-Platform-Frontend](https://federico-projects.github.io/video-platform-frontend/)
+You can visit the page live at [Video-Platform-Frontend](https://federico-projects.github.io/Video-Platform-Frontend/)
 
 ---
 
