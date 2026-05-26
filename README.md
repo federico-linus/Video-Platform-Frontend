@@ -1,8 +1,8 @@
-**YouTube Page Clone**
+**Video Platform Frontend**
 
-A simple YouTube homepage clone built with HTML and CSS. This project replicates the layout and structure of YouTube’s homepage, including a header, sidebar navigation, and a grid of video previews with thumbnails, titles, authors, and view counts.
+A responsive video platform homepage built with HTML and CSS. This project replicates a typical video browsing layout, including a header, sidebar navigation, and a grid of video previews with thumbnails, titles, authors, and view counts.
 
-You can visit the page live at [YouTube Homepage Clone](https://linus9426.github.io/youtube-homepage-clone/)
+You can visit the page live at [YouTube Homepage Clone](https://federico-linus.github.io/video-platform-frontend/)
 
 ---
 
